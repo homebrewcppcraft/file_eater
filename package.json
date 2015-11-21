@@ -1,0 +1,24 @@
+{
+  "name": "file_eater",
+  "version": "1.0.0",
+  "description": "Delete duplicate files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homebrewcppcraft/file_eater.git"
+  },
+  "keywords": [
+    "remove",
+    "duplicate",
+    "files"
+  ],
+  "author": "RAMI Ali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/homebrewcppcraft/file_eater/issues"
+  },
+  "homepage": "https://github.com/homebrewcppcraft/file_eater#readme"
+}
