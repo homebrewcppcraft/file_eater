@@ -17,6 +17,9 @@
   ],
   "author": "RAMI Ali",
   "license": "MIT",
+  "bin": {
+    "fileeater" : "cli.js"
+  },
   "bugs": {
     "url": "https://github.com/homebrewcppcraft/file_eater/issues"
   },
