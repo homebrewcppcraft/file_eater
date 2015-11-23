@@ -1,5 +1,5 @@
 {
-  "name": "file_eater",
+  "name": "fileeater",
   "version": "1.0.0",
   "description": "Delete duplicate files.",
   "main": "index.js",
@@ -18,10 +18,13 @@
   "author": "RAMI Ali",
   "license": "MIT",
   "bin": {
-    "fileeater" : "cli.js"
+    "fileeater": "cli.js"
   },
   "bugs": {
     "url": "https://github.com/homebrewcppcraft/file_eater/issues"
   },
-  "homepage": "https://github.com/homebrewcppcraft/file_eater#readme"
+  "homepage": "https://github.com/homebrewcppcraft/file_eater#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
 }
